@@ -3,6 +3,6 @@
  -->
 <launch>
   <include file="$(find concert_master)/launch/master.launch">
-    <arg name="concert_name" value="cafe_concert"/>
+    <arg name="concert_name" value="android_concert"/>
   </include>
 </launch>

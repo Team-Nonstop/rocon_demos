@@ -2,7 +2,7 @@
 # the name is just a placemarker for the eventual concert client name.
 # All other parts of the tuple are fixed.
 
-name: "Cafe Concert"
+name: "Android Concert"
 nodes:
   - id: cafe_database
     tuple: linux.ros.pc.cafe_database/cafe_database
