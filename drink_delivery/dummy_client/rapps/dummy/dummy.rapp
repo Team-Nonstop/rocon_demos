@@ -1,0 +1,5 @@
+display: Dummy
+description: Babo node
+platform: linux.ros.pc
+launch: dummy_client/dummy.launch
+interface: dummy_client/dummy.interface 

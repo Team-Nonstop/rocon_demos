@@ -34,6 +34,8 @@
     version: hydro-devel}
 - git: {local-name: rocon_concert, uri: 'https://github.com/robotics-in-concert/rocon_concert.git',
     version: android-devel}
+- git: {local-name: rocon_app_platform, uri: 'https://github.com/robotics-in-concert/rocon_app_platform.git',
+    version: hydro-devel}
 - git: {local-name: rocon_demos, uri: 'https://github.com/robotics-in-concert/rocon_demos.git',
     version: android-devel}
 - git: {local-name: rocon_anroid, uri: 'https://github.com/robotics-in-concert/rocon_android.git',
